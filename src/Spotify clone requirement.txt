@@ -1,0 +1,12 @@
+
+
+* User authenitication
+* Spotify API 
+* Material UI(icons)
+* Responsive Design
+* React Context API (Like REDUX)
+* Modern Tech
+* React Hooks Functional(Hooks, State)
+* Entire React Tech Stack
+* Massive Value
+* Host In Firebase
